@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f" format="2">
+  <advance width="800"/>
+  <unicode hex="0066"/>
+  <outline>
+    <contour>
+      <point x="0" y="400" type="line"/>
+      <point x="0" y="300" type="line"/>
+      <point x="700" y="300" type="line"/>
+      <point x="700" y="400" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="400" type="line"/>
+      <point x="0" y="200" type="line"/>
+      <point x="100" y="200" type="line"/>
+      <point x="100" y="400" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="100" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="100" y="100" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="200" type="line"/>
+      <point x="100" y="100" type="line"/>
+      <point x="700" y="100" type="line"/>
+      <point x="700" y="200" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="175" type="line"/>
+      <point x="100" y="189"/>
+      <point x="89" y="200"/>
+      <point x="75" y="200" type="curve"/>
+      <point x="100" y="200" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="225" type="line"/>
+      <point x="100" y="211"/>
+      <point x="111" y="200"/>
+      <point x="125" y="200" type="curve"/>
+      <point x="100" y="200" type="line"/>
+    </contour>
+    <contour>
+      <point x="75" y="100" type="line"/>
+      <point x="89" y="100"/>
+      <point x="100" y="111"/>
+      <point x="100" y="125" type="curve"/>
+      <point x="100" y="100" type="line"/>
+    </contour>
+    <contour>
+      <point x="125" y="100" type="line"/>
+      <point x="111" y="100"/>
+      <point x="100" y="89"/>
+      <point x="100" y="75" type="curve"/>
+      <point x="100" y="100" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/07/22 19:44:07</string>
+    </dict>
+  </lib>
+</glyph>

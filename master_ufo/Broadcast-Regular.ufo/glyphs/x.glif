@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="x" format="2">
+  <advance width="800"/>
+  <unicode hex="0078"/>
+  <outline>
+    <contour>
+      <point x="100" y="300" type="line"/>
+      <point x="100" y="200" type="line"/>
+      <point x="600" y="200" type="line"/>
+      <point x="600" y="300" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="400" type="line"/>
+      <point x="0" y="300" type="line"/>
+      <point x="100" y="300" type="line"/>
+      <point x="100" y="400" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="200" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="100" y="200" type="line"/>
+    </contour>
+    <contour>
+      <point x="600" y="400" type="line"/>
+      <point x="600" y="300" type="line"/>
+      <point x="700" y="300" type="line"/>
+      <point x="700" y="400" type="line"/>
+    </contour>
+    <contour>
+      <point x="600" y="200" type="line"/>
+      <point x="600" y="0" type="line"/>
+      <point x="700" y="0" type="line"/>
+      <point x="700" y="200" type="line"/>
+    </contour>
+    <contour>
+      <point x="625" y="300" type="line"/>
+      <point x="611" y="300"/>
+      <point x="600" y="289"/>
+      <point x="600" y="275" type="curve"/>
+      <point x="600" y="300" type="line"/>
+    </contour>
+    <contour>
+      <point x="575" y="300" type="line"/>
+      <point x="589" y="300"/>
+      <point x="600" y="311"/>
+      <point x="600" y="325" type="curve"/>
+      <point x="600" y="300" type="line"/>
+    </contour>
+    <contour>
+      <point x="75" y="200" type="line"/>
+      <point x="89" y="200"/>
+      <point x="100" y="211"/>
+      <point x="100" y="225" type="curve"/>
+      <point x="100" y="200" type="line"/>
+    </contour>
+    <contour>
+      <point x="575" y="300" type="line"/>
+      <point x="589" y="300"/>
+      <point x="600" y="311"/>
+      <point x="600" y="325" type="curve"/>
+      <point x="600" y="300" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="325" type="line"/>
+      <point x="100" y="311"/>
+      <point x="111" y="300"/>
+      <point x="125" y="300" type="curve"/>
+      <point x="100" y="300" type="line"/>
+    </contour>
+    <contour>
+      <point x="125" y="200" type="line"/>
+      <point x="111" y="200"/>
+      <point x="100" y="189"/>
+      <point x="100" y="175" type="curve"/>
+      <point x="100" y="200" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="275" type="line"/>
+      <point x="100" y="289"/>
+      <point x="89" y="300"/>
+      <point x="75" y="300" type="curve"/>
+      <point x="100" y="300" type="line"/>
+    </contour>
+    <contour>
+      <point x="600" y="175" type="line"/>
+      <point x="600" y="189"/>
+      <point x="589" y="200"/>
+      <point x="575" y="200" type="curve"/>
+      <point x="600" y="200" type="line"/>
+    </contour>
+    <contour>
+      <point x="600" y="225" type="line"/>
+      <point x="600" y="211"/>
+      <point x="611" y="200"/>
+      <point x="625" y="200" type="curve"/>
+      <point x="600" y="200" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/07/22 19:44:58</string>
+    </dict>
+  </lib>
+</glyph>

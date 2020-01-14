@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="e" format="2">
+  <advance width="800"/>
+  <unicode hex="0065"/>
+  <outline>
+    <contour>
+      <point x="0" y="100" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="700" y="0" type="line"/>
+      <point x="700" y="100" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="300" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="100" y="300" type="line"/>
+    </contour>
+    <contour>
+      <point x="400" y="400" type="line"/>
+      <point x="400" y="300" type="line"/>
+      <point x="700" y="300" type="line"/>
+      <point x="700" y="400" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="300" type="line"/>
+      <point x="0" y="200" type="line"/>
+      <point x="400" y="200" type="line"/>
+      <point x="400" y="300" type="line"/>
+    </contour>
+    <contour>
+      <point x="375" y="300" type="line"/>
+      <point x="389" y="300"/>
+      <point x="400" y="311"/>
+      <point x="400" y="325" type="curve"/>
+      <point x="400" y="300" type="line"/>
+    </contour>
+    <contour>
+      <point x="425" y="300" type="line"/>
+      <point x="411" y="300"/>
+      <point x="400" y="289"/>
+      <point x="400" y="275" type="curve"/>
+      <point x="400" y="300" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/07/22 19:44:04</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="y" format="2">
+  <advance width="800"/>
+  <unicode hex="0079"/>
+  <outline>
+    <contour>
+      <point x="300" y="200" type="line"/>
+      <point x="300" y="0" type="line"/>
+      <point x="400" y="0" type="line"/>
+      <point x="400" y="200" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="400" type="line"/>
+      <point x="0" y="200" type="line"/>
+      <point x="100" y="200" type="line"/>
+      <point x="100" y="400" type="line"/>
+    </contour>
+    <contour>
+      <point x="600" y="400" type="line"/>
+      <point x="600" y="200" type="line"/>
+      <point x="700" y="200" type="line"/>
+      <point x="700" y="400" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="300" type="line"/>
+      <point x="0" y="200" type="line"/>
+      <point x="300" y="200" type="line"/>
+      <point x="300" y="300" type="line"/>
+    </contour>
+    <contour>
+      <point x="400" y="300" type="line"/>
+      <point x="400" y="200" type="line"/>
+      <point x="700" y="200" type="line"/>
+      <point x="700" y="300" type="line"/>
+    </contour>
+    <contour>
+      <point x="425" y="200" type="line"/>
+      <point x="411" y="200"/>
+      <point x="400" y="189"/>
+      <point x="400" y="175" type="curve"/>
+      <point x="400" y="200" type="line"/>
+    </contour>
+    <contour>
+      <point x="300" y="175" type="line"/>
+      <point x="300" y="189"/>
+      <point x="289" y="200"/>
+      <point x="275" y="200" type="curve"/>
+      <point x="300" y="200" type="line"/>
+    </contour>
+    <contour>
+      <point x="375" y="200" type="line"/>
+      <point x="389" y="200"/>
+      <point x="400" y="211"/>
+      <point x="400" y="225" type="curve"/>
+      <point x="400" y="200" type="line"/>
+    </contour>
+    <contour>
+      <point x="300" y="225" type="line"/>
+      <point x="300" y="211"/>
+      <point x="311" y="200"/>
+      <point x="325" y="200" type="curve"/>
+      <point x="300" y="200" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/07/22 19:45:00</string>
+    </dict>
+  </lib>
+</glyph>
